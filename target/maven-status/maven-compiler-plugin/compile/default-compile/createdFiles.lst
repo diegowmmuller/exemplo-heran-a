@@ -1,0 +1,4 @@
+model\FiguraGeometrica.class
+application\Program\Program.class
+model\Circulo.class
+model\Triangulo.class
